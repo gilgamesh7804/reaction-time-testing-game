@@ -1,16 +1,30 @@
-# reaction_time_tester
+# ⚡ Reaction Tap Game
 
-A new Flutter project.
+A fast-paced Flutter game that tests your reflexes! Tap the falling circles before they hit the bottom. Speed increases over time to keep the challenge alive!
 
-## Getting Started
+## 🎮 Gameplay
 
-This project is a starting point for a Flutter application.
+Tap the circles as they fall. Miss one, and you lose your combo. Let too many fall, and it's game over.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔵 Falling circles to tap
+- ⏱️ Reaction time tracking
+- 🔁 Increasing difficulty curve
+- 🔊 Sound effects on tap and miss
+- 🔥 Combo system with scoring multiplier
+- 🌙 Dark mode support
+- ✨ Neon-themed UI
+- 
+## 🧩 How to Play
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Launch the app.
+2. Tap circles before they reach the bottom.
+3. Keep the combo alive to score higher.
+4. Game speeds up over time – stay sharp!
+
+## 🛠️ Getting Started
+
+```bash
+flutter pub get
+flutter run
